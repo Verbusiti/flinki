@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/UQEUbf2.jpeg" width="80%">
 
-AutoCAD is a commercial computer-aided design and drafting software application. Developed and marketed by Autodesk, AutoCAD was first released in December 1982 as a desktop app running on microcomputers with internal graphics controllers
+FL Studio is a digital audio workstation developed by the Belgian company Image-Line. FL Studio features a graphical user interface with a pattern-based music sequencer. The program is available in four different editions for Microsoft Windows and macOS
 
 ## Install
     • Click button "code"
